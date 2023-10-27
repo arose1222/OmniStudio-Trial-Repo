@@ -1,0 +1,21 @@
+{
+    "CustomJavaScript": "clm_CreateParentContractChildObjects_SampleInput.json",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "CreateParentContractChildObjects",
+    "OmniProcessElement": "clm_CreateParentContractChildObjects_Element_CreateParentContractLineItems.json",
+    "OmniProcessKey": "clm_CreateParentContractChildObjects",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "clm_CreateParentContractChildObjects_PropertySetConfig.json",
+    "SubType": "CreateParentContractChildObjects",
+    "Type": "clm",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/clm/CreateParentContractChildObjects/Procedure",
+    "WebComponentKey": "7094f9bf-8ea5-72b4-cfd4-fa89ad0223de"
+}

@@ -1,0 +1,21 @@
+{
+    "CustomJavaScript": "CPQ_DeleteItemFromCart_SampleInput.json",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "CPQDeleteItemFromCartIP",
+    "OmniProcessElement": "CPQ_DeleteItemFromCart_Element_DeleteItemFromCartRemoteAction.json",
+    "OmniProcessKey": "CPQ_DeleteItemFromCart",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "CPQ_DeleteItemFromCart_PropertySetConfig.json",
+    "SubType": "DeleteItemFromCart",
+    "Type": "CPQ",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/CPQ/DeleteItemFromCart/Procedure",
+    "WebComponentKey": "d217364b-96ed-28fd-4bb7-2c89542a3c63"
+}

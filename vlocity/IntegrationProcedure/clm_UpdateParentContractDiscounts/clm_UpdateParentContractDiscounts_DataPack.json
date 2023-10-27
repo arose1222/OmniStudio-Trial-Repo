@@ -1,0 +1,21 @@
+{
+    "CustomJavaScript": "{}",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "Update Parent Contract Discount",
+    "OmniProcessElement": "clm_UpdateParentContractDiscounts_Element_UpdateParentContractDiscount.json",
+    "OmniProcessKey": "clm_UpdateParentContractDiscounts",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "clm_UpdateParentContractDiscounts_PropertySetConfig.json",
+    "SubType": "UpdateParentContractDiscounts",
+    "Type": "clm",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/clm/UpdateParentContractDiscounts/Procedure",
+    "WebComponentKey": "2478a82b-1c2c-d143-434e-9b6b595c96a4"
+}

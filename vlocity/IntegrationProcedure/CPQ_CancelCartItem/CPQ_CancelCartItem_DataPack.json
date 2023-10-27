@@ -1,0 +1,24 @@
+{
+    "CustomJavaScript": "CPQ_CancelCartItem_SampleInput.json",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "CPQCancelCartItem",
+    "OmniProcessElement": [
+        "CPQ_CancelCartItem_Element_CancelCartItem.json",
+        "CPQ_CancelCartItem_Element_FinalResponse.json"
+    ],
+    "OmniProcessKey": "CPQ_CancelCartItem",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "CPQ_CancelCartItem_PropertySetConfig.json",
+    "SubType": "CancelCartItem",
+    "Type": "CPQ",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/CPQ/CancelCartItem/Procedure",
+    "WebComponentKey": "fd649b17-25f3-793b-6a63-b3d96216394c"
+}
